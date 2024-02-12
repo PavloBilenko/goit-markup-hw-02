@@ -111,7 +111,7 @@ ol {
   line-height: 1.1;
   letter-spacing: 0.02em;
   text-align: center;
-  color: 2e2F42;
+  color: #2e2f42;
 }
 .our-team-list {
 }
@@ -128,7 +128,7 @@ ol {
 .our-team-list-text {
   font-size: 16px;
   font-weight: 400;
-  line-height: 1, 5;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: center;
 }
@@ -140,7 +140,7 @@ ol {
   line-height: 40px;
   letter-spacing: 0.02em;
   text-align: center;
-  color: 2e2F42;
+  color: #2e2f42;
 }
 .our-portfolio-list {
 }
