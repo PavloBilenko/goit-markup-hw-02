@@ -76,6 +76,7 @@ ol {
   text-align: left;
   color: #ffffff;
   background-color: #4d5ae5;
+  cursor: pointer;
 }
 .order-service-btm:hover,
 .order-service-btm:active {
@@ -97,7 +98,6 @@ ol {
 }
 .information-list-text {
   font-size: 16px;
-  font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: left;
@@ -127,7 +127,6 @@ ol {
 }
 .our-team-list-text {
   font-size: 16px;
-  font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: center;
@@ -156,7 +155,6 @@ ol {
 }
 .our-portfolio-list-text {
   font-size: 16px;
-  font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: left;
@@ -178,7 +176,6 @@ ol {
 }
 .footer-text {
   font-size: 16px;
-  font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: left;
