@@ -171,7 +171,13 @@ ol {
   text-align: left;
   color: #4d5ae5;
 }
-.logo-part {
+.footer-logo-part {
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.16;
+  letter-spacing: 0.03em;
+  text-align: left;
   color: #f4f4fd;
 }
 .footer-text {
